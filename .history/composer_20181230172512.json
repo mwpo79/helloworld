@@ -1,0 +1,13 @@
+{
+    "name": "mwpo/hello-world",
+    "description": "hello world class",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mauro Spinelli",
+            "email": "mauro79@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
